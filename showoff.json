@@ -1,0 +1,10 @@
+{
+  "name": "Visualize Open Source Communities",
+  "sections": [
+    { "section" : "intro" },
+    { "section" : "why" },
+    { "section" : "challenge" },
+    { "section" : "ideas" },
+    { "section" : "thank_you" }
+  ]
+}
